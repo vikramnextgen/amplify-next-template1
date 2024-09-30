@@ -1,6 +1,6 @@
-// app/vikram.tsx
+// app/vikram/page.tsx
 
-export default function Vikram() {
+export default function VikramPage() {
   return (
     <div>
       <h1>Hello Vikram</h1>
